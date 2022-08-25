@@ -1,2 +1,2 @@
-# jacascript-intro
+# javascript-intro
 Frameworks Front End
